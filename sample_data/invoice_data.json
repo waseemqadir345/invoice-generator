@@ -1,0 +1,19 @@
+{
+  "invoice_number": "1001",
+  "date": "2025-06-26",
+  "company": {
+    "name": "M Waseem Q - Freelance Services",
+    "email": "waseem@example.com"
+  },
+  "client": {
+    "name": "BrightClean Services",
+    "email": "hello@brightclean.com"
+  },
+  "items": [
+    { "description": "Website Development", "quantity": 1, "price": 500.00 },
+    { "description": "Logo Design", "quantity": 2, "price": 75.00 },
+    { "description": "Monthly Maintenance", "quantity": 3, "price": 50.00 }
+  ],
+  "tax_percent": 10,
+  "notes": "Thank you for your business! Payment due within 14 days."
+}
